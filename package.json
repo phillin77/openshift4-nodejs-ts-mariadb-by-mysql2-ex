@@ -1,5 +1,5 @@
 {
-  "name": "openshift4-nodejs-ts-mysql-ex",
+  "name": "openshift4-nodejs-ts-mariadb-ex",
   "version": "0.1.0",
   "description": "Example TypeScript Project for OpenShift 4",
   "main": "./dist/src/main.js",
